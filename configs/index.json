@@ -1,1 +1,9 @@
-
+{
+  "1": {
+    "file": "",
+    "supernode": "0.0.0.0:1000",
+    "community": "test",
+    "ip": "1.1.1.1",
+    "description": ""
+  }
+}
