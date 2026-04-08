@@ -1,5 +1,7 @@
 ## N2N Client With GUI
 
+![README中文版](./README_CN.md)
+
 This is an n2n client with GUI, completely programmed and developed by **Claude Code**.
 
 Written in **Python**, requires **Python 3.7+**
